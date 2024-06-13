@@ -10,8 +10,6 @@
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmm0987&show_icons=true&theme=merko)
 
-![snake animation](https://github.com/<Dmm0987>/<Dmm0987>/blob/output/github-contribution-grid-snake2.svg)
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
